@@ -66,7 +66,7 @@ The **SPAI Hand-Drawn Doodle Generator** is a specialized AI platform designed f
 1.  **上传参考草图 (可选)**: 导入图片帮助 AI 更好地理解您的构思（支持 JPG/PNG/WebP）
 2.  **撰写线稿描述**: 使用情绪化语言。*例如：“一只慵懒打盹的猫咪，圆润线条，治愈系风格”*
 3.  **选择模型与样式**: 根据需求选择 `Sketch-soft` (柔和)、`Doodle-bold` (粗犷) 或 `Minimal` (极简)
-4.  **生成并下载**: 点击“生成手绘线稿”，满意后免费下载高清原图。
+4.  **生成并下载**: 点击“生成手绘线稿”，满意后免费下载高清原图
 
 ### ⚙️ 专业的 AI 绘制引擎
 *   **Nano Banana Pro**: 业内最火，擅长萌系和日系治愈风格。
