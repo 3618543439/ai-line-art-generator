@@ -77,7 +77,7 @@ The **SPAI Hand-Drawn Doodle Generator** is a specialized AI platform designed f
 
 <details>
 <summary><strong>生成的线稿可以商用吗？</strong></summary>
-<p>可以。生成的手绘线稿授予用户完整商业使用权，可放心地用于文创产品、印刷品或社交媒体推广。</p>
+<p>可以。生成的手绘线稿授予用户完整商业使用权，可放心地用于文创产品、印刷品或社交媒体推广</p>
 </details>
 
 <details>
