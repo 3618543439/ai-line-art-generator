@@ -5,7 +5,7 @@
 [![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://www.sipingseo.com/zh/line-art-generator/hand-drawn-doodle-sketch-generator)
 [![User Rating](https://img.shields.io/badge/rating-4.9%2F5-brightgreen)](https://www.sipingseo.com/zh/line-art-generator/hand-drawn-doodle-sketch-generator)
 
-**SPAI 手绘摸鱼线稿助理是一款基于尖端 AI 算法的在线创作工具。无论您是想为手账寻找素材、绘制治愈系涂鸦，还是寻找压力释放的简笔画，只需输入文字描述或上传参考草图，AI 即可在 10 秒内为您生成高清、具有手绘质感的专业线稿**
+**SPAI 手绘摸鱼线稿助理是一款基于尖端 AI 算法的在线创作工具。无论您是想为手账寻找素材、绘制治愈系涂鸦，还是寻找压力释放的简笔画，只需输入文字描述或上传参考草图，AI 即可在 10 秒内为您生成高清、具有手绘质感的专业线稿  。**
 
 ## ➡️ **[立即生成你的治愈系涂鸦 | Start Generating Doodles for Free](https://www.sipingseo.com/zh/line-art-generator/hand-drawn-doodle-sketch-generator)**
 
