@@ -15,7 +15,7 @@
 
 ## 🇬🇧 English Introduction
 
-The **SPAI Hand-Drawn Doodle Generator** is a specialized AI platform designed for journal lovers, digital artists, and anyone seeking a creative escape. It transforms your text prompts or rough sketches into clean, high-quality "healing style" line art.
+The **SPAI Hand-Drawn Doodle Generator** is a specialized AI platform designed for journal lovers, digital artists, and anyone seeking a creative escape. It transforms your text prompts or rough sketches into clean, high-quality "healing style" line art
 
 ### Key Features
 *   **✨ Text-to-Doodle:** Simply describe your idea (e.g., "a sleepy cat on a cloud"), and the AI creates the line art.
