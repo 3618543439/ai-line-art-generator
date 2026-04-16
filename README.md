@@ -87,7 +87,7 @@ The **SPAI Hand-Drawn Doodle Generator** is a specialized AI platform designed f
 
 <details>
 <summary><strong>如何获取最理想的线稿细节？</strong></summary>
-<p>建议描述包含：主体 + 动作 + 风格词（如“日系”、“复古”、“手绘”）。描述越具体，效果越传神。</p>
+<p>建议描述包含：主体 + 动作 + 风格词（如“日系”、“复古”、“手绘”）。描述越具体，效果越传神</p>
 </details>
 
 ---
