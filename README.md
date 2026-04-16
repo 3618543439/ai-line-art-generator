@@ -50,7 +50,7 @@ The **SPAI Hand-Drawn Doodle Generator** is a specialized AI platform designed f
 | ![橘猫简笔画](https://img.sipingseo.com/file/hand-drawn-doodle-sketch-generator/qOGe0S7x.webp) | ![兔子线稿](https://img.sipingseo.com/file/hand-drawn-doodle-sketch-generator/aMWzDSGs.webp) |
 
 #### 2. 清新植物花卉 (Botanical Sketches)
-展现自然之美，细腻优雅的线条，适合文艺风格的页面装点。
+展现自然之美，细腻优雅的线条，适合文艺风格的页面装点
 | 示例：多肉盆栽 | 示例：向日葵花束 |
 | :---: | :---: |
 | ![多肉线稿](https://img.sipingseo.com/file/hand-drawn-doodle-sketch-generator/xjJtD8Vm.webp) | ![向日葵线稿](https://img.sipingseo.com/file/hand-drawn-doodle-sketch-generator/QNXa93dg.webp) |
