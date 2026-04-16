@@ -82,7 +82,7 @@ The **SPAI Hand-Drawn Doodle Generator** is a specialized AI platform designed f
 
 <details>
 <summary><strong>我没有绘画基础能用吗？</strong></summary>
-<p>完全可以！AI 能够根据您的文字描述自动构图和渲染线条，您只需会“描述”即可变身手绘达人。</p>
+<p>完全可以！AI 能够根据您的文字描述自动构图和渲染线条，您只需会“描述”即可变身手绘达人</p>
 </details>
 
 <details>
