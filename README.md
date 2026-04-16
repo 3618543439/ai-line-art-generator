@@ -56,7 +56,7 @@ The **SPAI Hand-Drawn Doodle Generator** is a specialized AI platform designed f
 | ![多肉线稿](https://img.sipingseo.com/file/hand-drawn-doodle-sketch-generator/xjJtD8Vm.webp) | ![向日葵线稿](https://img.sipingseo.com/file/hand-drawn-doodle-sketch-generator/QNXa93dg.webp) |
 
 #### 3. 美味食物与边框 (Food & Borders)
-从诱人的甜品蛋糕到复古的手账边框，全方位满足排版需求。
+从诱人的甜品蛋糕到复古的手账边框，全方位满足排版需求
 | 食物涂鸦 | 复古手账边框 |
 | :---: | :---: |
 | ![食物线稿](https://img.sipingseo.com/file/hand-drawn-doodle-sketch-generator/EwoejfRz.webp) | ![边框线稿](https://img.sipingseo.com/file/hand-drawn-doodle-sketch-generator/dIErxBwN.webp) |
