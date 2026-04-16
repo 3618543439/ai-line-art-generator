@@ -70,7 +70,7 @@ The **SPAI Hand-Drawn Doodle Generator** is a specialized AI platform designed f
 
 ### ⚙️ 专业的 AI 绘制引擎
 *   **Nano Banana Pro**: 业内最火，擅长萌系和日系治愈风格
-*   **Seedream 5 (豆包)**: 针对复杂细节和人物神态深度优化。
+*   **Seedream 5 (豆包)**: 针对复杂细节和人物神态深度优化
 *   **Flux-Kontext**: 提供专业级的手绘线条质感。
 
 ### ❓ 常见问题 (FAQ)
