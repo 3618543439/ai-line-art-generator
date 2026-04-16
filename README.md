@@ -44,7 +44,7 @@ The **SPAI Hand-Drawn Doodle Generator** is a specialized AI platform designed f
 我们的 AI 模型可以处理多种有趣且实用的摸鱼小画主题：
 
 #### 1. 治愈系动物 (Animal Doodles)
-线条圆润柔和，最适合作为手账贴纸和表情包素材。
+线条圆润柔和，最适合作为手账贴纸和表情包素材
 | 示例：慵懒橘猫 | 示例：欢快兔子 |
 | :---: | :---: |
 | ![橘猫简笔画](https://img.sipingseo.com/file/hand-drawn-doodle-sketch-generator/qOGe0S7x.webp) | ![兔子线稿](https://img.sipingseo.com/file/hand-drawn-doodle-sketch-generator/aMWzDSGs.webp) |
